@@ -124,7 +124,7 @@ const Factures = () => {
                             </tr>
                         </thead>
                         <tbody>
-                            {factureslist_HTML}
+                            {factureslist_HTML}_
                         </tbody>
                     </table>
                 </div>
